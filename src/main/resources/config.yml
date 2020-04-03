@@ -1,0 +1,8 @@
+wall:
+  # Block ID used to generate the wall
+  material: 48
+  meta: 0
+ground:
+  # Block ID used to generate the ground
+  material: 2
+  meta: 0
